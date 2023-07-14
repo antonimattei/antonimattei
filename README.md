@@ -1,6 +1,6 @@
 # Welcome to my profile! 👍🏻
 My name is Antoni Medeiros Mattei. 
-I'm a software developer and I want to improve my skills, especially in front-end
+I'm a software developer and I would like to improve my skills, especially in front-end
 
 
 ## 🧑🏻‍💻 About me 
