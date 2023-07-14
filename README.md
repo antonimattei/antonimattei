@@ -12,7 +12,7 @@ I'm a software developer and I want to improve my skills, especially in front-en
 - :books: Studying: Spring and React! ;
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/antonimmatei)](https://github.com/antonimmatei)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoni-mattei-a906941b0/)](https://www.linkedin.com
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoni-mattei-a906941b0/)](https://www.linkedin.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonidemedeiros@gmail.com)](mailto:antonidemedeiros@gmail.com)
 
 **lcsdiniz/lcsdiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
