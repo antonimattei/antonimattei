@@ -5,7 +5,7 @@ I'm a software developer and I would like to improve my skills, especially in fr
 
 ## 🧑🏻‍💻 About me 
 - 💻 Full-Stack Developer focused in React and Java.
-- 🛠 Techs: Docker, React.js, Bootstrap, PHP, etc.
+- 🛠 Techs: Docker, React.js, Bootstrap,etc.
 - :books: Studying: Typescript , Docker and React Native;
 - 💻 Full-Stack Developer focused in Java ,React and SQL Oracle.
 - 🛠 Techs: Spring, Docker, React.js, Bootstrap, Java, etc.
