@@ -10,7 +10,6 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor brasileiro focado em cri
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,14 +27,22 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor brasileiro focado em cri
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🗃️ Bancos de Dados
+### 📊 Banco de Dados & ORMs
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-### 🔧 Ferramentas
+### 🛠️ Ferramentas & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 📚 Atualmente Estudando
 - **Frameworks Python**: Aprofundando em Django, Flask e FastAPI
@@ -46,6 +53,9 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor brasileiro focado em cri
 
 [![Estatísticas do Antoni](https://github-readme-stats.vercel.app/api?username=antonimattei&show_icons=true&theme=radical&locale=pt-br)](https://github.com/antonimattei)
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=antonimattei&layout=compact&theme=radical&locale=pt-br)](https://github.com/antonimattei)
+
+## 🏆 Troféus GitHub
+[![trophy](https://github-profile-trophy.vercel.app/?username=antonimattei&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤝 Vamos Conectar!
 
