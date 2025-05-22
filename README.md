@@ -5,8 +5,8 @@ I'm a software developer and I would like to improve my skills, especially in fr
 
 ## 🧑🏻‍💻 About me 
 - 💻 Full-Stack Developer focused in Java ,React and SQL Oracle.
-- 🛠 Techs: Spring, Docker, React.js, Bootstrap, Java, etc.
-- :books: Studying: Spring and React! ;
+- 🛠 Techs: Spring, Docker, React.js, Bootstrap, Java, Python,Django,Flask,FastAPI.
+- :books: Studying: Python and React! ;
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/antonimattei)](https://github.com/antonimattei)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoni-mattei-a906941b0/)](https://www.linkedin.com)
