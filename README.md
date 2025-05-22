@@ -1,17 +1,50 @@
-# Welcome to my profile! 👍🏻
-My name is Antoni Medeiros Mattei. 
-I'm a software developer and I would like to improve my skills, especially in front-end
+# 👋 Olá, eu sou Antoni Medeiros Mattei!
 
+**🚀 Desenvolvedor Full-Stack | Apaixonado por Python & Java | Aprendiz Contínuo**
 
-## 🧑🏻‍💻 About me 
-- 💻 Full-Stack Developer focused in Java ,React and SQL Oracle.
-- 🛠 Techs: Spring, Docker, React.js, Bootstrap, Java, Python,Django,Flask,FastAPI.
-- :books: Studying: Python and React! ;
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor brasileiro focado em criar aplicações robustas e em constante evolução tanto no front-end quanto no back-end.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/antonimattei)](https://github.com/antonimattei)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoni-mattei-a906941b0/)](https://www.linkedin.com)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonidemedeiros@gmail.com)](mailto:antonidemedeiros@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548996277379&text=Hello!)](https://api.whatsapp.com/send?phone=5548996277379&text=Hello!)
+## 🛠️ Minhas Tecnologias
 
-![Antoni GitHub stats](https://github-readme-stats.vercel.app/api?username=antonimattei&show_icons=true&theme=react)
-![Antoni GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antonimattei&theme=react)
+### 💻 Linguagens de Programação
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### 🗃️ Bancos de Dados
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📚 Atualmente Estudando
+- **Frameworks Python**: Aprofundando em Django, Flask e FastAPI
+- **Frontend**: Melhorando minhas habilidades em React
+- **DevOps**: Explorando Docker e pipelines de CI/CD
+
+## 📊 Estatísticas do GitHub
+
+[![Estatísticas do Antoni](https://github-readme-stats.vercel.app/api?username=antonimattei&show_icons=true&theme=radical&locale=pt-br)](https://github.com/antonimattei)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=antonimattei&layout=compact&theme=radical&locale=pt-br)](https://github.com/antonimattei)
+
+## 🤝 Vamos Conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoni-mattei-a906941b0/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonidemedeiros@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5548996277379&text=Olá!)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antonimattei)
+
+⭐ Fique à vontade para explorar meus repositórios e não hesite em entrar em contato!
