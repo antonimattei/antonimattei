@@ -55,7 +55,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor brasileiro focado em cri
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=antonimattei&layout=compact&theme=radical&locale=pt-br)](https://github.com/antonimattei)
 
 ## 🏆 Troféus GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=antonimattei)](https://github.com/antonimattei/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=antonimattei&theme=onedark&row=2&column=3)](https://github.com/antonimattei/github-profile-trophy)
 
 ## 🤝 Vamos Conectar!
 
