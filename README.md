@@ -65,6 +65,5 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor brasileiro focado em cri
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antonimattei)
 
 ⭐ Fique à vontade para explorar meus repositórios e não hesite em entrar em contato!
-</br>
-</br>
-<img src="https://komarev.com/ghpvc/?username=antonimattei&label=Profile%20views&color=0e75b6&style=flat" alt="antonimattei" />
+
+![](https://komarev.com/ghpvc/?username=antonimattei&abbreviated=true)
