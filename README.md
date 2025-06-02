@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Antoni Medeiros Mattei!
 
-**🚀 Desenvolvedor Full-Stack | Apaixonado por Python , Java & React! **
+### 🚀 Desenvolvedor Full-Stack | Apaixonado por Python , Java & React! ###
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor brasileiro focado em criar aplicações robustas e em constante evolução tanto no front-end quanto no back-end.
 
